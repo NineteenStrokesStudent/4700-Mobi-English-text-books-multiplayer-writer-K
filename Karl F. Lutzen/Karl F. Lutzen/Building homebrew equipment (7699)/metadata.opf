@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aac6885-9ac2-4815-b8f6-8bdb8267dfff</dc:identifier>
+        <dc:title>Building homebrew equipment</dc:title>
+        <dc:creator opf:file-as="Lutzen, Karl F. &amp; Stevens, Mark" opf:role="aut">Karl F. Lutzen</dc:creator>
+        <dc:creator opf:file-as="Lutzen, Karl F. &amp; Stevens, Mark" opf:role="aut">Mark Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-12-13T01:10:43.258000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Since 1973, Storey's Country Wisdom Bulletins have offered practical, hands-on instructions designed to help readers master dozens of country living skills quickly and easily. There are now more than 170 titles in this series, and their remarkable popularity reflects the common desire of country and city dwellers alike to cultivate personal independence in everyday life. &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Since the 1973 publication of Storey's first Country Wisdom Bulletin, our commitment to preserving the arts, crafts, and skills of country life has never wavered. We now have more than 200 titles in this series of 32-page publications, and their remarkable popularity reflects the common desire of country and city dwellers alike to cultivate personal independence in everyday life. &lt;/p&gt;&lt;p&gt;Storey's Country Wisdom Bulletins contain practical, hands-on instructions designed to help you master dozens of country living skills quickly and easily. From traditional skills to the newest techniques, Storey's Bulletins provide a foundation of earth-friendly information for the way you want to live today. &lt;/p&gt;</dc:description>
+        <dc:publisher>Storey Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781580171380</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="Storey Country Wisdom Bulletins" name="calibre:series"/>
+        <meta content="186" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-29T00:11:02.253000+00:00" name="calibre:timestamp"/>
+        <meta content="Building homebrew equipment" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

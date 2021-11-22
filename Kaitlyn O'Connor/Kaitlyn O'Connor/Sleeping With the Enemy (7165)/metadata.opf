@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76b6c964-74a2-4fc1-b63f-26c62d3e3a05</dc:identifier>
+        <dc:title>Sleeping With the Enemy</dc:title>
+        <dc:creator opf:file-as="O'Connor, Kaitlyn" opf:role="aut">Kaitlyn O'Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+This powerful, moving and well-controlled thriller follows the metamorphosis of Sara Burney, an abused, submissive and battered wife whose daily goal has been to keep her brutish husband Martin from still more violent assaults. Presumed dead when she is swept overboard from a sailboat in Manhasset Bay, Sara seizes the opportunity to escape from her husband and begin a new life. She rides the bus from Boston to the small university town of Cedar Falls, Iowa, where she finds a job as caretaker to Dr. Hazel Channing, a professor who is recovering from an accident that has left her both mute and paralyzed. Sara (now known as Laura Pray) gradually edges into independence. She reads Henry James to Dr. Channing and awakes her to sprightly dialogue. She finds the strength and the wisdom to counsel another woman in crisis. And she begins a tentative but promising relationship with her next-door neighbor, a perceptive professor. But her desire to visit her mother in a nursing home enables her murderously psychotic husband to trace her. Reveries, dreams and images of drowning form an effective counterpoint to chilling scenes of observation and pursuit, and the author of An Accomplished Woman brings the novel to a triumphant conclusion. Major ad/promo; film rights to Leonard Goldberg Productions.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780425127926</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-04T09:56:34.087000+00:00" name="calibre:timestamp"/>
+        <meta content="Sleeping With the Enemy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

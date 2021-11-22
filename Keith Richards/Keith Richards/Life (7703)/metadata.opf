@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aabdae9-8a70-4abf-b537-ce1d5098eba1</dc:identifier>
+        <dc:title>Life</dc:title>
+        <dc:creator opf:file-as="Richards, Keith &amp; Fox, James" opf:role="aut">Keith Richards</dc:creator>
+        <dc:creator opf:file-as="Richards, Keith &amp; Fox, James" opf:role="aut">James Fox (Contributor)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-14T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;Product Description&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;strong&gt;The long-awaited autobiography of the guitarist, songwriter, singer, and founding member of the Rolling Stones. Ladies and gentlemen: Keith Richards.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;With The Rolling Stones, Keith Richards created the songs that roused the world, and he lived the original rock and roll life.&lt;br&gt;&lt;br&gt;Now, at last, the man himself tells his story of life in the crossfire hurricane. Listening obsessively to Chuck Berry and Muddy Waters records, learning guitar and forming a band with Mick Jagger and Brian Jones. The Rolling Stones's first fame and the notorious drug busts that led to his enduring image as an outlaw folk hero. Creating immortal riffs like the ones in "Jumping Jack Flash" and "Honky Tonk Women." His relationship with Anita Pallenberg and the death of Brian Jones. Tax exile in France, wildfire tours of the U.S., isolation and addiction. Falling in love with Patti Hansen. Estrangement from Jagger and subsequent reconciliation. Marriage, family, solo albums and Xpensive Winos, and the road that goes on forever.&lt;br&gt;&lt;br&gt;With his trademark disarming honesty, Keith Richard brings us the story of a life we have all longed to know more of, unfettered, fearless, and true.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;About the Author&lt;/h3&gt;
+ &lt;div&gt;
+ Keith Richards was born in London in 1943. A guitarist, vocalist, songwriter, and cofounder of the Rolling Stones, he has also released solo albums with his band, The X-Pensive Winos. He lives in Connecticut with his wife, Patti Hansen.&lt;br&gt;&lt;br&gt;James Fox was born in Washington, D.C., in 1945 and has known Keith Richards since the early 1970's when he was a journalist for the Sunday Times in London. His books include the international bestseller &lt;i&gt;White Mischief&lt;/i&gt;. He lives in London with his wife and sons.
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316034388</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-28T05:20:08.338000+00:00" name="calibre:timestamp"/>
+        <meta content="Life" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

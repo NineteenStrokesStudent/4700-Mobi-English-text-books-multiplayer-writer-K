@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5963be38-4b6c-42c0-967b-6e49c1294e34</dc:identifier>
+        <dc:title>Tommy's Honor: The Story of Old Tom Morris and Young Tom Morris, Golf's Founding Father and Son</dc:title>
+        <dc:creator opf:file-as="Cook, Kevin" opf:role="aut">Kevin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-17T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**In the tradition of Seabiscuit, the riveting tale of twoproud Scotsmen who beat all comers to   become the heroesof a golden age—the dawn of professional golf**  
+
+
+
+  Bringing to life golf’s founding father and son, Tommy’s Honor is a stirring tribute to two legendary   players and a vivid evocation of their colorful, rip-roaring times.  
+
+
+
+  The Morrises were towering figures in their day. Old Tom, born in 1821,began life as a nobody—  he was the son of a weaver and a maid. But he was born in St. Andrews, Scotland, the cradle of   golf, and the game was in his blood. He became the Champion Golfer of Scotland, a national   hero who won tournaments (and huge bets) while his young son looked on. As "Keeper of the   Green" at the town’s ancient links, Tom deployed golf’s first lawnmower and banished sheep from   the fairways.   
+
+
+
+  Then Young Tommy’s career took off. Handsome Tommy Morris, the Tiger Woods of the   nineteenth century, was a more daring player than his father. Soon he surpassed Old Tom and   dominated the game. But just as he reached his peak—with spectators flocking to see him play—  Tommy’s life took a tragic turn, leading to his death at the age of twenty-four. That shock is at the   heart of *Tommy’s Honor*. It left Tom to pick up the pieces—to honor his son by keeping   Tommy’s memory alive.  
+
+
+
+  Like the *New York Times* bestseller *The Greatest Game Ever Played*, *Tommy’s   Honor* is both fascinating history and a moving personal saga. Golfers will love it, but this   book isn’t only for golfers. It’s for every son who has fought to escape a father’s shadow and for   every father who had guided a son toward manhood, then found it hard to let him go.</dc:description>
+        <dc:publisher>Gotham</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781592402977</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Sports</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-14T02:05:31.880000+00:00" name="calibre:timestamp"/>
+        <meta content="Tommy's Honor: The Story of Old Tom Morris and Young Tom Morris, Golf's Founding Father and Son" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;Sports&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

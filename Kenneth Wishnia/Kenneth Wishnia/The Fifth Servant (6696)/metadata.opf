@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03dfbd35-94b6-4b7d-86ea-4e3ebb05508b</dc:identifier>
+        <dc:title>The Fifth Servant</dc:title>
+        <dc:creator opf:file-as="Wishnia, Kenneth" opf:role="aut">Kenneth Wishnia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-15T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Whoever saves a single life saves the entire world . . .  
+
+ In 1592, as the Catholic Church and the Protestants battle for control of the soul of Europe, Prague is a relatively safe harbor in the religious storm. Ruled by Emperor Rudolph II, the city is a refuge for Jews who live within the gated walls of its ghetto. But their lives are jeopardized when a young Christian girl is found with her throat slashed in a Jewish shop on the eve of Passover. Charged with blood libel, the shopkeeper and his family are arrested. All that stands in the way of a rabid Christian mob is a clever Talmudic scholar, newly arrived from Poland, named Benyamin Ben-Akiva. Pleading the shopkeeper's innocence to the city's sheriff, Benyamin is given three days to bring the true killer to justice.  
+
+ But the search will not be easy. Hampered by rabbinic law, and with no allies or connections, Benyamin has only his wits, knowledge, and faith to guide him on his quest—a trail that weaves from the city's teeming streets to the quiet of a shul, from the forbidden back rooms of a ghetto brothel to the emperor's lavish palace.  
+
+ The Talmud says many things in life depend on *mazl*, luck. Fortunately, Benyamin is blessed, for an unlikely group of heroes will risk their own lives to help him discover the truth: Anya, a Christian butcher's daughter; the renowned reformist rabbi Judah Loew; a wise herbal healer known as Kassandra the Bohemian; and even the emperor himself.  
+
+ Who would most profit from the girl's murder—and from having the entire ghetto sealed off? Is the killer a Christian indebted to the girl's apothecary father? Or a messianic Jew bent on the destruction of his people to precipitate the Messiah's coming? The desperate search for answers is complicated by the arrival of a new Holy Inquisitor determined to root out witchcraft and heresy, and reclaim the fractious Bohemian territory for Rome. With time running out, Benyamin must dare the impossible—and commit the unthinkable—to save the Jews of Prague . . . and his own life.  
+
+ Infused with history and spiritual insight, rich in atmosphere and color, *The Fifth Servant* vividly re-creates sixteenth-century Prague—a bustling city where superstition, ignorance, and hatred clash with curiosity, knowledge, and tolerance; a world in which innocent lives are swept away by political and religious struggles, and righteous men and women sacrifice everything in the name of justice and truth.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061725371</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T22:07:46.621000+00:00" name="calibre:timestamp"/>
+        <meta content="Fifth Servant, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

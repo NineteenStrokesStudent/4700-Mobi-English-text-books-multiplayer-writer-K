@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18cd2665-e88e-4f70-b067-455400de5ca2</dc:identifier>
+        <dc:title>Personal Demon</dc:title>
+        <dc:creator opf:file-as="Armstrong, Kelley" opf:role="aut">Kelley Armstrong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-24T21:25:15+00:00</dc:date>
+        <dc:description>SUMMARY:
+In her acclaimed Women of the Otherworld series, Kelley Armstrong has created a scintillating realm where the supernatural and the human coexist on the edge of darkness, romance, and eternity. Now Armstrong tells the captivating tale of a young woman with an insatiable lust for danger. She can’t help it. It’s in her blood. Tabloid reporter Hope Adams appears to live the life of an ordinary working girl. But in addition to possessing the beauty of a Bollywood princess, Hope has other unique traits. For she is a half demon—a human fathered by a demon. And she’s inherited not only a gift for seeing the past but a hunger for chaos—along with a talent for finding it wherever she can. Naturally, when she’s chosen by a very dangerous group for a very dangerous mission, she jumps at the chance…. The head of the powerful Cortez Cabal—a family that makes the mob look like amateurs—has a little problem in Miami: a gang of wealthy, bored offspring of supernaturals is getting out of hand, and Hope is needed to infiltrate. As spells, astral projections, and pheromones soar across South Beach, Hope weaves her way through its elite hot spots, posing as upscale eye candy and reading the auras of the clientele—and potential marks. As it turns out, Hope is a little too good at this job. And soon she’s in a little too deep, needing to be bailed out by her jewel-thief werewolf ex-boyfriend and by the Cortez heir himself. And when a killer goes to work, Hope is among many targets at the pinnacle of Cabal rule. For a woman who didn’t know what she was getting into, there’s only one way out: it’s time for Hope to unleash her most potent primal instincts—and open herself, mind and body, to everything she most fears . . . and desires. Sexy and suspenseful, Personal Demon is a thrill ride through a world on the wild side of our own. From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553806618</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Women of the Otherworld" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-08T04:02:32.681000+00:00" name="calibre:timestamp"/>
+        <meta content="Personal Demon" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

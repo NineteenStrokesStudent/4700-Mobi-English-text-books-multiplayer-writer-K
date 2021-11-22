@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5fb8fe6-b526-472f-a595-95d5c6fa993c</dc:identifier>
+        <dc:title>Faefever</dc:title>
+        <dc:creator opf:file-as="Moning, Karen Marie" opf:role="aut">Karen Marie Moning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-16T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The *New York Times* bestselling author of **Darkfever** and** Bloodfever **returns to Dublin’s Fae-infested shores in a bold, sensual new novel. Hurtling us into a realm of seduction and shadows, Karen Marie Moning tells the enthralling tale of a woman who explores the limits of her mysterious powers as she enters a world of ancient sorcery—and confronts an enemy more insidious than she could ever have imagined.*****He calls me his Queen of the Night. I’d die for him. I’d kill for him, too. *When MacKayla Lane receives a torn page from her dead sister’s journal, she is stunned by Alina’s desperate words. And now MacKayla* *knows that her sister’s killer is close. But evil is closer. And suddenly the *sidhe-*seer is on the hunt: For answers. For revenge. And for an ancient book of dark magic so evil, it corrupts anyone who touches it.Mac’s quest for the *Sinsar Dubh* takes her into the mean, shape-shifting streets of Dublin, with a suspicious cop on her tail. Forced into a dangerous triangle of alliance with V’lane, an insatiable Fae prince of lethally erotic tastes, and Jericho Barrons, a man of primal desires and untold secrets, Mac is soon locked in a battle for her body, mind, and soul. As All Hallows’ Eve approaches and the city descends into chaos, as a shocking truth about the Dark Book is uncovered, not even Mac can prevent a deadly race of immortals from shattering the walls between worlds—with devastating consequences.…</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385341639</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Fever" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-18T09:47:53.954000+00:00" name="calibre:timestamp"/>
+        <meta content="Faefever" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

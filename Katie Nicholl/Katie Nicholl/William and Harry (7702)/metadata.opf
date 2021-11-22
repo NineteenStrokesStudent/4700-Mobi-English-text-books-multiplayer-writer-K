@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ba9df52-ef8e-49b5-b8b8-12516700efea</dc:identifier>
+        <dc:title>William and Harry</dc:title>
+        <dc:creator opf:file-as="Nicholl, Katie &amp; Nicholl, C" opf:role="aut">Katie Nicholl</dc:creator>
+        <dc:creator opf:file-as="Nicholl, Katie &amp; Nicholl, C" opf:role="aut">C Nicholl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-14T10:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+William and Harry is a fascinating insight into the lives and loves of two extraordinary young men who have captured not only the hearts and minds of not only the British public, but those the world over. This is the definitive book about the princes, bringing their story right up to date. It is the tale of two brothers who have carried the legacy of their mother, Diana, Princess of Wales, into the twenty-first century and on whom the future of the House of Windsor largely depends.Drawing on her unique set of contacts Katie Nicholl recounts the royal brothers' extraordinary lives and reveals William and Harry's real characters as they become front-line soldiers and modern princes. Through her network of sources, some of whome have agreed to speak for the very first time, Katie tells the story of one of Prince William's earliest romances, and his struggle with his destiny as a future King of England.As a royal wedding between Prince William and Kate Middleton seems more probable, Katie has spoken to a wealth of contacts close to the couple who reveal how their love affair really started at St Andrews, the hurdles the pair overcame and the challenges they still face. She recounts the story of Harry's time at Eton, his relationship with Chelsy Davy, and his three months he spent on the front line in Afghanistan. She analyses William and Harry's complex relationship with their father, and the woman who will one day become Queen Camilla. She talks to their friends, contemporaries and confidants to paint a unique and revealing portrait of the two most famous brothers in the world.</dc:description>
+        <dc:publisher>Random House UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781602861404</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-10T10:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="William and Harry" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b605658b-3cbf-40e4-9e02-de2755ce006d</dc:identifier>
+        <dc:title>In Every Heartbeat</dc:title>
+        <dc:creator opf:file-as="Sawyer, Kim Vogel" opf:role="aut">Kim Vogel Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-01T01:44:53.499000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;It’s 1914, on the brink of the Great War, when three longtime friends who grew up together in an orphanage are awarded scholarships to the University of Southern Missouri. But Petey, destined for the ministry, harbors revenge in his heart against the parents who cast him away when he was only seven years old, resulting in the loss of one foot and part of his leg. Libby’s impetuousness repeatedly lands her in trouble and hinders her ambition to become a top-notch reporter, and Bennett substitutes food and fighting for the respect, admiration, and sense of belonging he desperately craves. As the school year progresses and their beliefs are tested, their ambitions take them in different directions until they are brought together again by an impending execution. Sawyer’s stand-alone Christian historical is more judgmental than her usual fare, but there is still plenty of action, emotion, and background color to carry the story. --Lynne Welch &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;As three friends who grew up in the same orphanage head off to college together, they each harbor a cherished dream. Libby wishes to become a famous journalist, Pete plans to study to become a minister, and Bennett wants to join a fraternity and have as much fun as possible. But as tensions rise around the world on the brink of World War I, the friends' differing aspirations and opinions begin to divide them, as well. And when Libby makes a shocking discovery about Pete's family, will it drive a final wedge between the friends or bond them in ways they never anticipated? &lt;/p&gt;</dc:description>
+        <dc:publisher>Baker Pub Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780764208164</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Religous</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-04T01:40:50.097000+00:00" name="calibre:timestamp"/>
+        <meta content="In Every Heartbeat" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

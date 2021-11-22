@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4d7c6eb-dace-4552-a541-6cf68752cfcf</dc:identifier>
+        <dc:title>The cave</dc:title>
+        <dc:creator opf:file-as="Mosse, Kate" opf:role="aut">Kate Mosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-19T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A QUICK READ - part of the WORLD BOOK DAY 2009 literacy initiative for emergent readers.March 1928. Freddie Smith is on a motoring holiday in the mountains of south west France. He is caught in a violent storm and his car crashes. He is forced to seek shelter in a boarding house in the nearby village of Axat.There he meets another guest in the tiny hotel, a pale and beautiful young woman called Marie. As the storm rages outside, she explains how the region was ripped apart by wars of religion in the 14th century. She tells how, one terrible night in March 1328, all the inhabitants of Axat were forced to flee from the soldiers into the mountains. The villagers took refuge in a cave, but when the fighting was over, no one came back. Their bodies were never found. Axat itself became a ghost town.When Freddie wakes the following morning, Marie has gone. Worse still, his car will take several days to repair and he has to stay at the boarding house for a few days more. To pass the time, he explores the mountains. Then he realises it is almost 600 years to the day since the villagers disappeared. He decides to go and look for the cave himself. Perhaps, he thinks, he might even find Marie? It is a decision he will live to regret.</dc:description>
+        <dc:publisher>Orion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780752884509</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T21:47:43.049000+00:00" name="calibre:timestamp"/>
+        <meta content="cave, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

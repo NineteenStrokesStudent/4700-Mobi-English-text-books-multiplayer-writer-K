@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34fb93a6-6519-4165-b4fe-7dbe8e36be0d</dc:identifier>
+        <dc:title>Dracula in Love</dc:title>
+        <dc:creator opf:file-as="Essex, Karen" opf:role="aut">Karen Essex</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Bruce Feiler Reviews Dracula in Love      
+
+**Bruce Feiler is one of America’s most popular voices on faith and family.  He is the author of five New York Times bestsellers, including Walking the Bible, Abraham, and America’s Prophet.  His latest book, The Council of Dads, tells the uplifting story of how friendship and community can help one survive life’s greatest challenges. Read his review of Dracula in Love:**     
+
+     
+
+Gorgeously written and erotically charged, the novel Dracula in Love is like its century-jumping central characters: deeply rooted in the past while pushing ageless mythology into strikingly current realms.  Historical novels should have plenty of history, and this novel surely does.  Romantic novels should have their share of sex and romance, and this novel delivers both.  But its true revelation is its gripping sense of anticipation, heartache, discovery, and unflinching chill.      
+
+With Dracula in Love Karen Essex turns her inimitable, piercing gaze to illuminating what should be familiar terrain--Victorian England--and what might seem like well-trod territory--a certain Count.  Her considerable trick is to make you forget entirely all the baggage that attends her story by planting us firmly in the shoes and the psyche of one of the "victims," Mina Harker.  I am walking up the steps of the finishing school with the quivering heroine; I am secreting away in London’s subterranean shadows with the jilted lover; I am traveling into the mysteries of southern Austria and Ireland's haunted west coast (yes, begone tired Transylvania!) where our heroine discovers her own dark powers.     
+
+I shudder in horror and delight when the fangs make their inevitable plunge.     
+
+I met Karen Essex when both of us were briefly embedded in the Southern gothic world of Nashville.  She would soon unearth some of history’s most misunderstood women and vividly revive them for contemporary ears.  From Kleopatra (note the provocative spelling) to the countess of Elgin (and her fascinating courtesan doppelganger from the ancient world, Aspasia) to feuding sisters who posed for Leonardo (watch the genius brought down to earth!), Karen overturns history’s conventions and shows how these women are keenly relevant today.    
+
+I am hardly a vampire freak.  The Twilight books "eclipsed" me.  And I’ve never owned a set of plastic fangs.  But I do love Karen Essex, and this novel is enough to make me a little bloodthirsty.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385528917</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T21:52:28.634000+00:00" name="calibre:timestamp"/>
+        <meta content="Dracula in Love" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

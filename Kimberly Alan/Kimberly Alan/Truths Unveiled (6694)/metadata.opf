@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0e45c5b-e504-47fc-9ddf-cf549f89c5a0</dc:identifier>
+        <dc:title>Truths Unveiled</dc:title>
+        <dc:creator opf:file-as="Alan, Kimberly" opf:role="aut">Kimberly Alan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-30T22:08:16.138000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+How do you deal with someone you can't avoid and who makes it their business to constantly irk you? And how do you forgive yourself for getting involved with them in the first place?              How do you forgive yourself for surviving a fatal accident when deep inside, you believe you were the cause, and then someone unknown to you exploits that belief in order to keep you from discovering the truth?               Pam Harrington and Tom Jarrod shared a past that tore them apart fourteen years ago. Since then, they have separately struggled to right the individual wrongs they'd committed. Then an opportunity presents itself which could give them a second chance at love and a life together. But only if they can finally resolve the issues from their pasts.               Trust in the Lord with all your heart and lean not on your own understanding. In all your ways acknowledge Him, and He will direct your paths.   Proverbs 3:5-6</dc:description>
+        <dc:publisher>Wild Rose Press, The</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781601544391</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Religous</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T22:07:39.148000+00:00" name="calibre:timestamp"/>
+        <meta content="Truths Unveiled" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

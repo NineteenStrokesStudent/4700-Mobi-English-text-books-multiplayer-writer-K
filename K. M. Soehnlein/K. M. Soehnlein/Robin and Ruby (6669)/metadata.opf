@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43b1e2f5-f04d-4c1a-9aa8-0dd29c0892c2</dc:identifier>
+        <dc:title>Robin and Ruby</dc:title>
+        <dc:creator opf:file-as="Soehnlein, K. M." opf:role="aut">K. M. Soehnlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+In his award-winning bestseller *The World of Normal Boys,* K.M. Soehnlein introduced readers to the richly compelling voice of teenager Robin MacKenzie. In *Robin and Ruby,* he revisits Robin and his younger sister, masterfully depicting the turbulence of the mid-1980s--and that fleeting time between youth and adulthood, when everything we will become can be shaped by one unforgettable weekend.
+
+At twenty-years-old, Robin MacKenzie is waiting for his life to start. Waiting until his summer working at a Philly restaurant is over and he's back with his boyfriend Peter. . .until the spring semester when he'll travel to London for an acting program. . .until the moment when the confidence he fakes starts to feel real. 
+
+Then, one hot June weekend, Robin gets dumped by his boyfriend and quickly hits the road with his best friend George to find his teenaged sister, Ruby, who's vanished from a party at the Jersey Shore. For years, his friendship with George has been the most solid thing in Robin's life. But lately there are glimpses of another George, someone Robin barely knows and can no longer take for granted. 
+
+Ruby is on an adventure of her own, dressing in black, declaring herself an atheist, pulling away from the boyfriend she doesn't love--not the way she loves the bands whose fractured songs are the soundtrack to her life. Then a chance encounter puts Ruby in pursuit of a seductive but troubled boy who might be the key to her happiness, or a disaster waiting to happen. 
+
+As their paths converge, Robin and Ruby confront the sadness of their shared past and rebuild the bonds that still run deep. In prose that is lyrical, compulsively readable, and exquisitely honest, K.M. Soehnlein brilliantly captures a family redefining itself and explores those moments common to us all--when freedom bumps up against responsibility, when sex blurs the line between friendship and love, and when what you stand for becomes more important than who you were raised to be.</dc:description>
+        <dc:publisher>Kensington Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780758232182</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T20:08:10.659000+00:00" name="calibre:timestamp"/>
+        <meta content="Robin and Ruby" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

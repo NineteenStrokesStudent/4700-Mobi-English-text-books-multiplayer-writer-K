@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f50bc11f-df9c-46c7-b3cb-e259fa79bfdb</dc:identifier>
+        <dc:title>Once A Spy</dc:title>
+        <dc:creator opf:file-as="Thomson, Keith" opf:role="aut">Keith Thomson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-09T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Drummond Clark was once a spy of legendary proportions. Now Alzheimer's disease has taken its toll and he's just a confused old man who's wandered away from home, waiting for his son to fetch him. When Charlie Clark takes a break from his latest losing streak at the track to bring Drummond back to his Brooklyn home, they find it blown sky high-and then bullets start flying in every direction. At first, Charlie thinks his Russian "creditors" are employing aggressive collection tactics. But once Drummond effortlessly hot-wires a car as their escape vehicle, Charlie begins to suspect there's much more to his father than meets the eye. He soon discovers that Drummond's unremarkable career as an appliance salesman was actually a clever cover for an elaborate plan to sell would-be terrorists faulty nuclear detonators. Drummond's intricate knowledge of the "device" is extremely dangerous information to have rattling around in an Alzheimer's-addled brain. The CIA wants to "contain" him--and so do some other shady characters who send Charlie and Drummond on a wild chase that gives "father and son quality time" a whole new meaning. With Once a Spy, Keith Thomson makes his debut on the thriller stage with energy, wit, and style to spare. From the Hardcover edition.</dc:description>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385530781</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-18T03:29:27.453000+00:00" name="calibre:timestamp"/>
+        <meta content="Once A Spy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">178444e4-96aa-4704-8d56-33825a3f49d2</dc:identifier>
+        <dc:title>Bloodfever</dc:title>
+        <dc:creator opf:file-as="Moning, Karen Marie" opf:role="aut">Karen Marie Moning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-16T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+I used to think my sister and I were just two nice southern girls who'd get married in a few years and settle down to a quiet life. Then I discovered that Alina and I descend, not from good wholesome southern stock, but from an ancient Celtic bloodline of powerful sidhe-seers, people who can see the Fae. Not only can I see the terrifying otherworldly race, but I can sense the sacred Fae relics that hold the deadliest of their magic.    
+
+When my sister was found dead in a trash-filled alley in Dublin, I came over to get answers. Now all I want is revenge. And after everything I've learned about myself, I know I have the power to get it....    
+
+MacKayla Lane's ordinary life underwent a complete makeover when she landed on Ireland's shores and was plunged into a world of deadly sorcery and ancient secrets.     
+
+In her fight to stay alive, Mac must find the Sinsar Dubh-a million-year-old book of the blackest magic imaginable, which holds the key to power over both the worlds of the Fae and of Man. Pursued by Fae assassins, surrounded by mysterious figures she knows she cannot trust, Mac finds herself torn between two deadly and irresistible men: V'lane, the insatiable Fae who can turn sensual arousal into an obsession for any woman, and the ever-inscrutable Jericho Barrons, a man as alluring as he is mysterious.     
+
+For centuries the shadowy realm of the Fae has coexisted with that of humans. Now the walls between the two are coming down, and Mac is the only thing that stands between them....</dc:description>
+        <dc:publisher>Delacorte Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385339162</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Fever" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-17T23:31:48.586000+00:00" name="calibre:timestamp"/>
+        <meta content="Bloodfever" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

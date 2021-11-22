@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98ea3165-4425-4e0b-b88b-9cda3139080a</dc:identifier>
+        <dc:title>The Life You've Imagined</dc:title>
+        <dc:creator opf:file-as="Riggle, Kristina" opf:role="aut">Kristina Riggle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-17T23:05:09.291000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;Two childhood friends reunite when stressful circumstances bring them back to their hometown. Anna, distraught over the loss of a beloved mentor, takes a leave of absence from her law firm and returns to her mother, Maeve, and their family convenience store. Cami deals with a gambling addiction and breakup by hiding out at her father’s home. Sadly, coming home doesn’t bring them the solace they seek. Maeve’s store is being threatened by an upscale development. Anna is nursing lingering feelings for the high-school sweetheart she left, who now has a wife and family. Cami still mourns her mother’s long-ago death and resents her alcoholic father’s emotional withdrawal. Riggle, author of Real Life and Liars (2009), explores what happens when real life diverges sharply from childhood dreams. Her strong and complicated female characters are interesting and likable, and she ably weaves together multiple story lines. --Aleksandra Walker 
+&lt;/p&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Backed by Riggle’s trademark unflinching honesty and imbued with heart and hope, The Life You’ve Imagined is a terrific novel about love and loss, letting go and holding on. A book to share with family and friends—I loved it.” (Melissa Senate, author of The Secret of Joy )  
+&lt;/p&gt;
+&lt;p&gt;“Kristina Riggle writes women’s fiction with soul. Her characters are both familiar and quirky, and reading their stories is like spending a weekend catching up with your oldest friends. You come away laughing and also touched that someone knows you so well.” (Tiffany Baker, New York Times' bestselling author, The Little Giant of Aberdeen County )  
+&lt;/p&gt;
+&lt;p&gt;“The Life You’ve Imagined is a richly woven story laced with unforgettable characters. Cami, Maeve, Anna, and Amy will snag your heart as they explore the sometimes-wide chasm between hope and reality. A beautiful book.” (Therese Walsh, author of The Last Will of Moira Leahy )  
+&lt;/p&gt;
+&lt;p&gt;“An entertaining, challenging story with the potential to change us if we let it.” (Grand Rapids Press )  
+&lt;/p&gt;
+&lt;p&gt;Riggle, author of Real Life and Liars (2009), explores what happens when real life diverges sharply from childhood dreams. Her strong and complicated female characters are interesting and likable, and she ably weaves together multiple story lines. (Booklist ) 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061706295</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T23:00:43.690000+00:00" name="calibre:timestamp"/>
+        <meta content="Life You've Imagined, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

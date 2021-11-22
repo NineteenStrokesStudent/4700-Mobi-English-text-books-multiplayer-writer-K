@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f0c4ca7-6046-4e4f-b2e4-3a16b484f595</dc:identifier>
+        <dc:title>Mistress Shakespeare</dc:title>
+        <dc:creator opf:file-as="Harper, Karen" opf:role="aut">Karen Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-10T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A delicious and intriguing historical novel about the woman who was William Shakespeare's secret wife by New York Times bestselling author, Karen Harper. In Mistress Shakespeare, Elizabethan beauty Anne Whateley reveals intimate details of her dangerous, daring life and her great love, William Shakespeare. As historical records show, Anne Whateley of Temple Grafton is betrothed to Will just days before he is forced to wed the pregnant Anne Hathaway of Shottery. The clandestine Whateley/Shakespeare match is a meeting of hearts and heads that no one - not even Queen Elizabeth or her spymasters - can destroy. From rural Stratford-upon- Avon to teeming London, the passionate pair struggles to stay solvent and remain safe from Elizabeth I's campaign to hunt down secret Catholics, of whom Shakespeare is rumored to be a part. Often at odds, always in love, the couple sells Will's first plays and, as he climbs to theatrical power in Elizabeth's England, they fend off fierce competition from rival London dramatists, ones as treacherous as they are talented. Persecution and plague, insurrection and inferno, friends and foes, even executions of those they hold dear, bring Anne's heartrending story to life. Spanning half a century of Elizabethan and Jacobean history and sweeping from the lowest reaches of society to the royal court, this richly textured novel tells the real story of Shakespeare in love.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399155451</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T10:18:25.480000+00:00" name="calibre:timestamp"/>
+        <meta content="Mistress Shakespeare" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

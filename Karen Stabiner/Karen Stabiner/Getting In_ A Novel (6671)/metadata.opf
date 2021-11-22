@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e437d94-c000-4dc7-87f2-3341ba6054a2</dc:identifier>
+        <dc:title>Getting In: A Novel</dc:title>
+        <dc:creator opf:file-as="Stabiner, Karen" opf:role="aut">Karen Stabiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-16T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+"Karen Stabiner's GETTING IN [is] humorous (in a wry kind of way) but  pointed and surprisingly engaging novel about parental and teen  obsessiveness regarding the college application process in independent  schools and the debilitating, distorting impact of it on kids and  families. Must read for college-prep kids and their parents."   --Patrick Basset, President, National Association of Independent Schools
+
+"A savvy insider's take on a high-stakes, cutthroat campaign--except it's not about getting into the White House, but about getting into the perfect college. Stabiner's sharp, witty tale is as essential as a good SAT prep course--but a hell of a lot more fun."  --Arianna Huffington    
+
+"*Getting In* takes an edgy, knowing look inside the lives and minds of love-crazed parents--galvanized equally by desperation and devotion--as they try with all their might to thrust their cherished children into the universities of their dreams."  --Carolyn See, *Making a Literary Life*    
+
+"Karen Stabiner has clearly been through the crazy circus that is college admissions, and lucky for the rest of us she took pitch-perfect notes. You will come away from her book reassured that all the other families of applicants are even loonier than yours--or reassured that you fit right in. What do you *mean*, this is fiction?"  --Lisa Belkin, *New York Times* parenting writer (and hardy survivor of her son's college application process)  
+
+Q: What does a parent need to survive the college application process?    
+
+A. A sense of humor.  B. A therapist on 24-hour call.  C. A large bank balance.  D. All of the above.    
+
+*Getting In* is the roller-coaster story of five very different Los Angeles families united by a single obsession: acceptance at a top college, preferably one that makes their friends and neighbors green with envy. At an elite private school and a nearby public school, families devote themselves to getting their seniors into the perfect school--even if the odds are stacked against them, even if they can't afford the $50,000 annual price tag, even if the effort requires a level of deceit, and even if the object of all this attention wants to go somewhere else.  
+
+*Getting In* is a delightfully smart comedy of class and entitlement, of love and ambition, set in a world where a fat envelope from a top school matters more than anything . . . almost.</dc:description>
+        <dc:publisher>Voice</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401322465</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T20:08:18.773000+00:00" name="calibre:timestamp"/>
+        <meta content="Getting In: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

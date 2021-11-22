@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf848737-6345-43eb-affa-a7d24568eba5</dc:identifier>
+        <dc:title>Virals</dc:title>
+        <dc:creator opf:file-as="Reichs, Kathy &amp; Reichs, Brendan" opf:role="aut">Kathy Reichs</dc:creator>
+        <dc:creator opf:file-as="Reichs, Kathy &amp; Reichs, Brendan" opf:role="aut">Brendan Reichs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;i&gt;Bones&lt;/i&gt;, brings her bestselling blend of science and suspense to teens with the first in a new series, &lt;i&gt;Virals&lt;/i&gt;. Tory is the science-obsessed niece of a famous forensic anthropologist, Temperance Brennan (star of the &lt;i&gt;Bones&lt;/i&gt; program and novels), living on a remote island off the coast of South Carolina. An old military ID tag leads Tory and her best friends, Ben, Hi, and Shelton--all self proclaimed “sci-philes”--to an illegal research lab, where they are exposed to a mutant strain of canine parvovirus. When the teens begin experiencing preternatural physical changes, their search for answers brings them in contact with cold-blooded killers. Reichs’s characters are realistically drawn modern teenagers, and the state-of-the-art forensic details give this thriller an added edge. Short, heart-pounding chapters move the action forward at breakneck speed and the satisfying conclusion sets the tone for the next installment (coming in summer of 2011). --&lt;i&gt;Seira Wilson&lt;/i&gt;&lt;br&gt;&lt;/div&gt;
+ &lt;h3&gt;From &lt;/h3&gt;
+ &lt;div&gt;
+ Tory Brennan, transplanted from New England to South Carolina after her mother’s death, is getting used to life with her hitherto-unknown marine-biologist father when life throws her a curve in the form of an odd virus. Along with her friends—a multiethnic group of science nerds all living, like her, on a remote barrier island—Tory finds a set of military ID tags linked to a missing-person’s case. The subsequent sleuthing exposes the gang to a disease, leaving them with heightened senses that flare when they’re in danger. They get plenty of opportunities to exercise their powers of intense sight, smell, and hearing in this suspenseful, if a bit exaggerated, plot-driven novel by the creator of the Bones TV drama. Despite one-dimensional villains, the book flows and is full of snappy dialogue guaranteed to draw in adventure junkies. Grades 6-9. --Karen Cruze
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Group USA, Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781595143426</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-04T02:54:13.088000+00:00" name="calibre:timestamp"/>
+        <meta content="Virals" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

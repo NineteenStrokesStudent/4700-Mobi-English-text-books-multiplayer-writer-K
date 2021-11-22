@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">245a7011-43a4-4d00-b9d4-49db3f533ecb</dc:identifier>
+        <dc:title>The Devil's Dozen: How Cutting-Edge Forensics Took Down 12 Notorious Serial Killers</dc:title>
+        <dc:creator opf:file-as="Ramsland, Katherine M." opf:role="aut">Katherine M. Ramsland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-07T21:48:10.359000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A forensics expert follows the historic evolution of CSI through a century of serial killers.**
+
+
+
+ "Katherine Ramsland has brilliantly captured the insights and drama of some fascinating cases" (Dr. Henry Lee) in her previous bestselling books. Now she examines the case histories of twelve of the most notorious serial killers of the last one hundred years, and answers the questions: What clues did they leave behind? How were they eventually caught? How was each twist and turn of their crimes matched by the equally compelling weapons of science and logic?
+
+
+
+ From exploring the nineteenth century's earliest investigative tools to remarkable twenty-first century CSI advances, *The Devil's Dozen* provides a fascinating window into the world of those who kill-and those who dedicate their lives to bringing them to justice.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425226032</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T21:47:33.954000+00:00" name="calibre:timestamp"/>
+        <meta content="Devil's Dozen: How Cutting-Edge Forensics Took Down 12 Notorious Serial Killers, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;True Crime&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

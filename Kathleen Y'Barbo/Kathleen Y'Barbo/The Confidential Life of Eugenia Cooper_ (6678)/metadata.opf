@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b4afd11-1adf-490a-8355-719be4b27831</dc:identifier>
+        <dc:title>The Confidential Life of Eugenia Cooper: Woman of the West</dc:title>
+        <dc:creator opf:file-as="Y'Barbo, Kathleen" opf:role="aut">Kathleen Y'Barbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-02T21:48:21.624000+00:00</dc:date>
+        <dc:description>SUMMARY:
+This Wild West adventure just might be the life she was meant to live.The future is clearly mapped out for New York socialite Eugenia “Gennie” Cooper, but she secretly longs to slip into the boots of her favorite dime-novel heroine and experience just one adventure before settling down. When the opportunity arises, Gennie jumps at the chance to experience the Wild West, but her plans go awry when she is drawn into the lives of silver baron Daniel Beck and his daughter and finds herself caring for them more than is prudent–especially as she’s supposed to go back to New York and marry another man. As Gennie adapts to the rough-and-tumble world of 1880s Colorado, she must decide whether her future lies with the enigmatic Daniel Beck or back home with the life planned for her since birth. The question is whether Daniel’s past–and disgruntled miners bent on revenge–will take that choice away from her. “The Confidential Life of Eugenia Cooper is a fast-paced story full of fun, action, drama, and love.”–Mary Connealy, author of Calico Canyon, Petticoat Ranch, and Gingham Mountain            “If you loved Cathy Marie Hake, give yourself a treat with The Confidential Life of Eugenia Cooper.”–Lauraine Snelling, author of the Red River Series and One Perfect Day</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307444745</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Religous</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T21:47:36.414000+00:00" name="calibre:timestamp"/>
+        <meta content="Confidential Life of Eugenia Cooper: Woman of the West, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
